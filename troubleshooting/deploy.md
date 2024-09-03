@@ -1,4 +1,4 @@
-### Dependencies
+### Dependencies 
 
 * AWS Account
 * `kubectl` installed
