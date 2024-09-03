@@ -15,5 +15,5 @@ metadata:
   creationTimestamp: "2024-09-03T06:38:52Z"
   name: aws-auth
   namespace: kube-system
-  resourceVersion: "1372"
+  resourceVersion: "3221"
   uid: f63a7f5b-f7ff-4271-be54-aedd93ce93fd
